@@ -28,3 +28,8 @@ Important searching,sorting,pattern searching etc. algorithms with c++
 
 - [ ] Brute Force 
 - [ ] Horpool's Algorithm
+
+### Minimum Spanning Tree (MST)
+
+- [ ] Prim's Algorithm
+- [ ] Kruskal's Algorithm
